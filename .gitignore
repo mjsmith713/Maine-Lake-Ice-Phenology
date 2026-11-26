@@ -1,0 +1,8 @@
+rasters/
+*.tif
+*.tiff
+*.zip
+*.aux.xml
+*.ovr
+__pycache__/
+.DS_Store
